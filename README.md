@@ -2,7 +2,7 @@
 Chip-8 emulator written in C.
 
 # Instructions 
-CPU architecture and instructions found [here](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM). 
+CPU architecture and instructions found [here](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM) and [wiki](https://en.wikipedia.org/wiki/CHIP-8). 
 
 # Display and Sound
 Display and sound using SDL2 library, adapted learned from [here](https://github.com/mk6502/chipee).
