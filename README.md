@@ -5,7 +5,7 @@ Chip-8 emulator written in C.
 CPU architecture and instructions found [here](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM) and [wiki](https://en.wikipedia.org/wiki/CHIP-8). 
 
 # Display and Sound
-Display and sound using SDL2 library, adapted learned from [here](https://github.com/mk6502/chipee).
+Display and sound using SDL2 library, adapted from [here](https://github.com/mk6502/chipee).
 
 # Running (Ubuntu 20.04)
 `make` to compile.
